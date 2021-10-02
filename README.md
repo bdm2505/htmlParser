@@ -4,4 +4,4 @@
 ## ./gradlew run 
 
 скачать готовый файл можно по ссылке https://github.com/bdm2505/htmlParser/releases/download/as/htmlParser.jar
-для работы нужна Java версии не ниже 16 
+для работы нужна Java версии не ниже 16  https://www.oracle.com/java/technologies/downloads/
